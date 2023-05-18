@@ -1,4 +1,4 @@
-# CPSC5330-Assignment-1-Hello-World-Completed
+# CPSC5330-Assignment-1-Hello-World
 
 # Assignment: Introduction
 CPSC 5330 - Mobile Applications Development 1: 
