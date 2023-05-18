@@ -24,7 +24,7 @@ Test and debug your app.
 :white_check_mark: `Complete` <br/>
 :grey_exclamation: `Finished Project`
 
-<img src="https://github.com/thompln83/HelloWorld/blob/main/Docs/Assignment1Screenshot.png">
+<img src="https://github.com/thompln83/HelloWorld-main/Docs/Assignment1Screenshot.png">
 
 
 
