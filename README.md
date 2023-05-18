@@ -21,4 +21,13 @@ Add design components to your app.
 Import image assets to your app.
 Test and debug your app.
 
+:white_check_mark: `Complete` <br/>
+:grey_exclamation: `Finished Project`
+
+<img src="https://github.com/thompln83/HelloWorld/blob/main/Docs/Assignment1Screenshot.png?raw=true" width="200">
+
+
+
+
+
 Project completed by: Lauren Thompson Auburn University Student for CPSC 5330 - Mobile Applications Development 1 (Summer 2023)
