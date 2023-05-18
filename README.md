@@ -8,7 +8,7 @@ Assignment-1
 Your task is to develop a single-view iOS application. In the view there should be an image and a text. Add an image of your choice. The image can be anything (Hobby/Favorite place, etc.). Add a text right below the image. Text can also be anything. You may or may not add a background color.
 
 # Requirements:
-Refer to Assignment1 ReadMe.png (see Docs folder of HelloWorld-main) or [Assignment1 ReadMe] (https://github.com/thompln83/CPSC5330-Assignment-1-Hello-World/blob/0959db21f4b9013f8ef71b9ab5f7a953bc6e566b/HelloWorld-main/Docs/Assignment1%20ReadMe.png) for the requirements in image form. Submit a GitHub link of your project.
+Refer to Assignment1 ReadMe.png (see Docs folder of HelloWorld-main) or [Assignment1 ReadMe](https://github.com/thompln83/CPSC5330-Assignment-1-Hello-World/blob/0959db21f4b9013f8ef71b9ab5f7a953bc6e566b/HelloWorld-main/Docs/Assignment1%20ReadMe.png) for the requirements in image form. Submit a GitHub link of your project.
 
 # Deliverables:-
 Create a GitHub repository for your project and submit a GitHub link for it.
