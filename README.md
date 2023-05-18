@@ -25,7 +25,7 @@ Test and debug your app.
 :grey_exclamation: `Finished Project`
 
 <img src="https://github.com/thompln83/HelloWorld-main/Docs/Assignment1Screenshot.png">
-
+<img src="https://github.com/thompln83/CPSC5330-Assignment-1-Hello-World/blob/47402cfa167225efff384edc7570603c6b6214f6/HelloWorld-main/Docs/Assignment1Screenshot.png">
 
 
 
